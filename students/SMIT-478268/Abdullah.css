@@ -358,6 +358,12 @@ section.niche {
     text-align: center;
     transition: 0.3s ease;
 }
+.service-card img{
+     width: 210px;
+    height: 150px;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
 
 .service-card h3 {
     font-size: 18px;
